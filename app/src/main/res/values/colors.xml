@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peter_bg">#0D1117</color>
+    <color name="peter_card">#161B22</color>
+    <color name="peter_green">#238636</color>
+    <color name="peter_blue">#58A6FF</color>
+    <color name="peter_text">#E6EDF3</color>
+    <color name="peter_muted">#8B949E</color>
+</resources>
